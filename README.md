@@ -11,3 +11,7 @@ https://www.kaggle.com/code/karnikakapoor/spam-or-ham-sms-classifier/input
 -> "Don’t forget to bring your notebook for the class tomorrow."
 ->"Happy Birthday! Hope you have an amazing day 🎉"
 -> "Can you please call me when you are free?"
+
+My Colab notebook Link->
+https://colab.research.google.com/drive/1J2pr3-ykRIjgsspNDaH05uIOrxbLTrq_?usp=sharing
+
